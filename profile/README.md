@@ -5,8 +5,6 @@
   </picture>
 </a>
 
-# Fenext
-
 > Building the Future of Manufacturing Operations
 
 ## About Us
